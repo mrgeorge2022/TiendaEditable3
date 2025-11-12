@@ -1,0 +1,75 @@
+{
+    "tituloPagina": "Lava y mas",
+    "nombreRestaurante": "Lava y mas",
+    "logo": "img/icono_tienda.png",
+    "colores": {
+        "--bg-body": "Url('img/fondobody.png') no-repeat center center / cover",
+        "--header": "linear-gradient(135deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('img/fondoheader.png')",
+        "--accent": "#002480",
+        "--bg-skeleton": "linear-gradient(135deg, #ffffff, #cccccc)",
+        "--bg-start": "#f0f0f0",
+        "--bg-end": "#d9d9d9",
+        "--card-bg": "#e6e6e6"
+    },
+    "categorias": [
+        {
+            "id": "lavadoexterior",
+            "emoji": "🚙",
+            "nombre": "Lavado Exterior"
+        },
+        {
+            "id": "lavadointerior",
+            "emoji": "🧽",
+            "nombre": "Lavado Interior"
+        },
+        {
+            "id": "encerado",
+            "emoji": "✨",
+            "nombre": "Encerado y Pulido"
+        },
+        {
+            "id": "aspirado",
+            "emoji": "🌀",
+            "nombre": "Aspirado Completo"
+        },
+        {
+            "id": "motor",
+            "emoji": "⚙️",
+            "nombre": "Lavado de Motor"
+        },
+        {
+            "id": "productos",
+            "emoji": "🧴",
+            "nombre": "Productos de Limpieza"
+        },
+        {
+            "id": "serviciosextra",
+            "emoji": "🪣",
+            "nombre": "Servicios Extra"
+        }
+    ],
+    "redes": {
+        "whatsapp": "https://wa.me/",
+        "instagram": "https://www.instagram.com/",
+        "facebook": "https://www.facebook.com/"
+    },
+    "numeroWhatsAppMensajes": "573023354334",
+    "footerQR": "img/QR_tienda.png",
+    "sede": {
+        "nombre": "Lava y mas - Cartagena, Bolivar.",
+        "direccion": "Avenida del lago",
+        "telefono": "(+57) 302 335 4334"
+    },
+    "coordenadasSede": [
+        10.4061412,
+        -75.5233082
+    ],
+    "footerLogo": "img/logo.png",
+    "crearTienda": "https://wa.me/573022666530?text=Quiero%20crear%20mi%20tienda",
+    "apiUrls": {
+        "productos": "https://script.google.com/macros/s/AKfycbyafjyWFdN3xu6aSwpOdYo2O1zsJ4xxSiV_WkCqTOwKLXhaZjJ_9lcGwe6wPBbXI4dg/exec",
+        "horario": "https://script.google.com/macros/s/AKfycbw500r4iBdFMU3ABq80Wgg-HERQrwALXpJcA-fgqmZ7Ol9vwN4VOMcueKZcAt6lzv8g5Q/exec",
+        "envioBaseDatos": "https://script.google.com/macros/s/AKfycbyrGueN56YtNiP089vDFRrONfVdtdxhWSiW8-O07VQjubOZ-Ia9ns9uiQDGrK6qV91P0A/exec",
+        "reciboBaseDatos": "https://script.google.com/macros/s/AKfycbyrGueN56YtNiP089vDFRrONfVdtdxhWSiW8-O07VQjubOZ-Ia9ns9uiQDGrK6qV91P0A/exec"
+    }
+}
