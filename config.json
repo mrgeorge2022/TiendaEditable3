@@ -1,0 +1,39 @@
+{
+    "tituloPagina": "Charly Hot | Pide a domicilio | Restaurante | Ordena online",
+    "nombreRestaurante": "Charly Hot",
+    "logo": "img/icono_tienda.png",
+    "colores": {
+        "--bg-body": "#222",
+        "--header": "linear-gradient(135deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('img/fondoheader.png')",
+        "--accent": "#FF8000",
+        "--bg-skeleton": "linear-gradient(135deg, #f9f9f9, #e9e9e9)",
+        "--bg-start": "#333",
+        "--bg-end": "#444",
+        "--card-bg": "#222"
+    },
+    "redes": {
+        "whatsapp": "https://wa.me/573022605125",
+        "instagram": "https://www.instagram.com/",
+        "facebook": "https://www.facebook.com/"
+    },
+    "numeroWhatsAppMensajes": "573022605125",
+    "footerQR": "img/QR_tienda.png",
+    "sede": {
+        "nombre": "Charly Hot - Cartagena, Bolivar.",
+        "direccion": "Cra. 80 #22A-41, Villa Rubia",
+        "telefono": "(+57) 302 260 5125"
+    },
+    "coordenadasSede": [
+        10.382880,
+        -75.473260
+    ],
+    "footerLogo": "img/logo.png",
+    "crearTienda": "https://wa.me/573022666530?text=Quiero%20crear%20mi%20tienda",
+    "apiUrls": {
+        "productos": "https://script.google.com/macros/s/AKfycbyuAC8_S8DIuuS0vYyV19R5VlaLKSFyCjsEwn9U_8uixBG19WLkr7rxffkRh75xvK61Lg/exec",
+        "horario": "https://script.google.com/macros/s/AKfycbwExy2xhPaInIbT6i30FQ3f0n4_EgkVUaPU-yQQix_CfkY39jTOvugfT7t_hi2TrIWWMQ/exec",
+        "envioBaseDatos": "https://script.google.com/macros/s/AKfycbygU-qL9ftI2hJlgNp6t5t2wlvPx9nANJm8YgPex-Mb20O714M5fH4GydjtyfcRJRn14A/exec",
+        "reciboBaseDatos": "https://script.google.com/macros/s/AKfycbygU-qL9ftI2hJlgNp6t5t2wlvPx9nANJm8YgPex-Mb20O714M5fH4GydjtyfcRJRn14A/exec",
+        "CajaDatos": "https://script.google.com/macros/s/AKfycby4TP4zSuZoB70zR3eoe21luOuJjC4J767Qr_zkB3pIdkNK1ocnmRsSxTKRnXZhUpM2Kg/exec"
+    }
+}
